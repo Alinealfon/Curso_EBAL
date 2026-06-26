@@ -2,11 +2,11 @@
 ## Materiais para o Curso de Estatística básica aplicada à Linguística
 
 ### Informações Gerais
-Carga Horária: 10 horas
-Período/Semestre: 30 de junho a 03 de julho de 2026
-Professor(a): Aline Alves Fonseca (UFJF) 
-Horário: 14h - 16h 
-Local: Faculdade de Letras - UFMG
++ Carga Horária: 10 horas
++ Período/Semestre: 30 de junho a 03 de julho de 2026
++ Professora: Aline Alves Fonseca (UFJF) 
++ Horário: 14h - 16/17hh 
++ Local: Faculdade de Letras - UFMG (CAD2)
 
 **Ementa**
 Este curso introduz os fundamentos da estatística descritiva e inferencial aplicados a dados linguísticos. Serão abordados tópicos como variáveis linguísticas, medidas de tendência central e dispersão, testes de hipóteses, correlação e regressão. Será dada ênfase à utilização do software estatístico RStudio para análise de corpora e outros conjuntos de dados textuais.
