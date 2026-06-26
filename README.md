@@ -24,7 +24,7 @@ Ao final do curso, o(a) estudante deverá ser capaz de:
 
 **_Dia 1 - Introdução ao R e Estatística Descritiva_**
 - Instalação e informações básicas sobre o RStudio
-- Lição 3 - Representações gráficas (histogramas e boxplots)
+- Lição 3 - Medidas de tendência Central e Representações gráficas (histogramas e boxplots)
 
 **_Dia 2 - Testes de Hipóteses_**
 - Conceitos de hipótese nula e alternativa
